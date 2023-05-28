@@ -31,5 +31,5 @@
 - OpenSSL
 
 ### Лицензия
-GNU General Public License v3.0
+GNU General Public License v3.0 <br>
 https://www.gnu.org/copyleft/gpl.html
