@@ -24,11 +24,11 @@
 ##### **Там есть много других интересных примеров!**
 
 #### Используемые библиотеки:
-- [SFML](https://github.com/SFML/SFML)
-- [Discord-game-SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide)
-- [nlohmann JSON](https://github.com/nlohmann/json)
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib/tree/master)
-- [OpenSSL](https://github.com/openssl/openssl)
+- [SFML](https://github.com/SFML/SFML) **v2.5.1**
+- [Discord-game-SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide) **v3.2.1**
+- [nlohmann JSON](https://github.com/nlohmann/json) **v3.11.2**
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib/tree/master) **v0.12.6**
+- [OpenSSL](https://github.com/openssl/openssl) **v1.1.1**
 
 ### Лицензия
 GNU General Public License v3.0 <br>
