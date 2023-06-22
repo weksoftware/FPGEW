@@ -24,7 +24,7 @@
 ##### **Там есть много других интересных примеров!**
 
 #### Используемые библиотеки:
-- [SFML](https://github.com/SFML/SFML) **v2.5.1**
+- [SFML](https://github.com/SFML/SFML) **v2.6**
 - [Discord-game-SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide) **v3.2.1**
 - [nlohmann JSON](https://github.com/nlohmann/json) **v3.11.2**
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib/tree/master) **v0.12.6**
